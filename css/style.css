@@ -3,11 +3,12 @@
 }
 
 body {
-    background-image: url(https://lh3.googleusercontent.com/drive-storage/AKHj6E7PTDQQC3E0i50qHnKLn9G-VtCRoo4kQRbVQ0eTxU3g9kuqHU-0NXDW7VF7zjm2-vrpQUXtVzotZWK27WRsWcNCmIW0FwGknOG0P4hRmw=w1898-h922);
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/12698327-fundo-de-tecnologia-de-rede-com-brilho-roxo-preto-e-linhas-sprial-vetor.jpg");
     margin: 0;
 }
 
-nav {  
+nav { 
+    background-color: black;
     height: 3rem;
     display: flex;
     justify-content: space-between;
